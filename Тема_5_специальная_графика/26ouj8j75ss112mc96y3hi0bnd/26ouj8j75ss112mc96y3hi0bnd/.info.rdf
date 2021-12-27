@@ -1,0 +1,841 @@
+<rdf:RDF
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:opmv="http://purl.org/net/opmv/ns#"
+    xmlns:dctypes="http://purl.org/dc/dcmitype/"
+    xmlns:schema="http://schema.org/"
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:repo="http://vocab.bris.ac.uk/data/repository#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd">
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:03.217Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:03.221Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:34.829Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PublishSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:34.871Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:55:36.438Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:55:36.509Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:source>RDSF1/projects/OAM/export/Data-Bris</dc:source>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:24.786Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:24.85Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:35.175Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.ZipTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:37.196Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <repo:depositor>tp12099</repo:depositor>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:35.228Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:35.289Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:24.635Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:24.644Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:language>eng</dc:language>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:02:53.031Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:02:53.112Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:license rdf:resource="http://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/non-commercial-government-licence.htm"/>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:11.282Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:11.342Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:hasFormat>
+      <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/26ouj8j75ss112mc96y3hi0bnd.zip">
+        <dc:format>application/zip</dc:format>
+      </rdf:Description>
+    </dc:hasFormat>
+    <repo:includes-third-party-data>0</repo:includes-third-party-data>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:54:30.013Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:54:30.075Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:37.364Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:37.41Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:03.251Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:03.315Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:54:30.108Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:54:30.181Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:issued>2020</dc:issued>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-19T15:28:55.542Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.DataCiteSubmit</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-19T15:28:56.682Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:55:36.34Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:55:36.418Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:32.781Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.IndexDepositTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:33.387Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <repo:other-licences>0</repo:other-licences>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:25:58.051Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:25:58.577Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <bibo:doi>10.5523/bris.26ouj8j75ss112mc96y3hi0bnd</bibo:doi>
+    <repo:state>Published</repo:state>
+    <repo:organisation rdf:resource="http://data.bris.ac.uk/orgs/FENG"/>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:02:52.433Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:02:52.948Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-06T13:44:48.105Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-06T13:44:48.203Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:38:23.747Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:38:25.29Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:38:25.671Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:38:25.678Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:26:03.712Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:26:03.783Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:25:59.005Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:25:59.027Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:02:53.138Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:02:53.278Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:26:03.827Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:26:03.999Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:54:29.933Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:54:29.968Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:11.153Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:11.156Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+    >22143895</dc:extent>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:54:29.35Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:54:29.889Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:11.368Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:11.388Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:dateSubmitted rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2020-07-27T13:44:28.197Z</dc:dateSubmitted>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:38:25.594Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:38:25.656Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:35.047Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:35.137Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+    >2020-08-12T15:03:32.602Z</dc:date>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:34.18Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.MDExtractTika</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:34.583Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:available>2020-07-27</dc:available>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-06T13:44:48.029Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-06T13:44:48.051Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-06T13:44:48.261Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-06T13:44:48.273Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-19T15:28:55.039Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.MDExtractTika</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-19T15:28:55.477Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/Dataset"/>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:02:52.988Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:02:52.994Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:24.086Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:24.6Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:32.727Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.RemovePreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:32.748Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:37.249Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:37.323Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-19T15:28:53.607Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.IndexDepositTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-19T15:28:54.97Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:description>Project measurement data and reports on Orbital Angular Momentum research using RF / wireless carriers.&#xD;
+&#xD;
+Antenna Array modelled element patterns from "Conformal Antenna Array Design using Aperture Synthesis".</dc:description>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:55:35.784Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:55:36.29Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:38:25.33Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:38:25.586Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:38:25.301Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:38:25.305Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:creator rdf:parseType="Collection">
+      <rdf:Description rdf:about="http://data.bris.ac.uk/people/5566">
+        <rdfs:label>Geoffrey Hilton</rdfs:label>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://data.bris.ac.uk/people/4142">
+        <rdfs:label>Mark Beach</rdfs:label>
+      </rdf:Description>
+      <rdf:Description rdf:about="http://data.bris.ac.uk/people/269487">
+        <rdfs:label>Timothy Pelham</rdfs:label>
+      </rdf:Description>
+    </dc:creator>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:24.883Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:24.903Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:34.506Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:35.053Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:35.303Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:35.317Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:25:58.601Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:25:58.611Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:55:36.525Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:55:36.533Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:54:30.201Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:54:30.222Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <repo:base-directory>/RDSF1/projects/OAM</repo:base-directory>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:03.331Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:03.394Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:title>Data from Antenna and Antenna Array Research(07-2020)</dc:title>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:25:58.826Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:25:58.972Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:10.614Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:11.126Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <repo:data-steward rdf:resource="http://data.bris.ac.uk/people/4142"/>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:02:53.32Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:02:53.345Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:24.679Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:24.747Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:26:03.14Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:26:03.651Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:34.938Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.ZipPreTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T15:03:34.946Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:55:36.315Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T08:55:36.318Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:hasPart>
+      <dctypes:Collection rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas">
+        <rdfs:label>Printed-Antennas</rdfs:label>
+        <dc:hasPart>
+          <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/PrintedHornSPP2LensH13v2.dat">
+            <rdfs:label>PrintedHornSPP2LensH13v2.dat</rdfs:label>
+            <dc:format>text/plain; charset=windows-1252</dc:format>
+            <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >315560</dc:extent>
+            <foaf:sha1>5d7e1901a7c94219297c08bb146e2e3a7c431fa3</foaf:sha1>
+          </rdf:Description>
+        </dc:hasPart>
+        <dc:hasPart>
+          <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/PrintedHornSPP2v2.dat">
+            <rdfs:label>PrintedHornSPP2v2.dat</rdfs:label>
+            <dc:format>text/plain; charset=windows-1252</dc:format>
+            <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >315560</dc:extent>
+            <foaf:sha1>043386ac65d587125b9ad8cd1ecbba11f56ea394</foaf:sha1>
+          </rdf:Description>
+        </dc:hasPart>
+        <dc:hasPart>
+          <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/PrintedHornLensH13v2.dat">
+            <rdfs:label>PrintedHornLensH13v2.dat</rdfs:label>
+            <dc:format>text/plain; charset=windows-1252</dc:format>
+            <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >315560</dc:extent>
+            <foaf:sha1>6e2f52f2776357968f8c973a1dcd6b9f576a4886</foaf:sha1>
+          </rdf:Description>
+        </dc:hasPart>
+        <dc:hasPart>
+          <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/readme.txt">
+            <rdfs:label>readme.txt</rdfs:label>
+            <dc:format>text/plain; charset=UTF-8</dc:format>
+            <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >1214</dc:extent>
+            <foaf:sha1>b70ac62efc9d1cecc77a046858753ad755520d24</foaf:sha1>
+          </rdf:Description>
+        </dc:hasPart>
+        <dc:hasPart>
+          <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/PrintedHornSPP1v2.dat">
+            <rdfs:label>PrintedHornSPP1v2.dat</rdfs:label>
+            <dc:format>text/plain; charset=windows-1252</dc:format>
+            <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >315560</dc:extent>
+            <foaf:sha1>d0a37eea7048c6e906752b5e45719ecc044987b6</foaf:sha1>
+          </rdf:Description>
+        </dc:hasPart>
+        <dc:hasPart>
+          <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/PrintedHornv2.dat">
+            <rdfs:label>PrintedHornv2.dat</rdfs:label>
+            <dc:format>text/plain; charset=windows-1252</dc:format>
+            <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >315560</dc:extent>
+            <foaf:sha1>ecc5a9cdebdf1be4639e1f7841756ddad22e64fd</foaf:sha1>
+          </rdf:Description>
+        </dc:hasPart>
+        <dc:hasPart>
+          <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/PrintedHornSPP1LensH11v2.dat">
+            <rdfs:label>PrintedHornSPP1LensH11v2.dat</rdfs:label>
+            <dc:format>text/plain; charset=windows-1252</dc:format>
+            <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >315560</dc:extent>
+            <foaf:sha1>d70ffb5995fd97cab20cf691ad730ba29f40dc54</foaf:sha1>
+          </rdf:Description>
+        </dc:hasPart>
+      </dctypes:Collection>
+    </dc:hasPart>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:26:04.02Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:26:04.042Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:02.663Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.SyncTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:03.18Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-19T15:28:52.729Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.ZipPreTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-19T15:28:52.768Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:03.471Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.StateChanger</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:03.506Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:26:03.686Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:26:03.691Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:hasPart>
+      <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/readme.txt">
+        <rdfs:label>readme.txt</rdfs:label>
+        <dc:format>text/plain; charset=windows-1252</dc:format>
+        <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+        >1264</dc:extent>
+        <foaf:sha1>0bf3f8d719c34749f9bd63c136c7c7cdd9befeae</foaf:sha1>
+      </rdf:Description>
+    </dc:hasPart>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-06T13:44:48.23Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.EnsurePublicPermissions</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-06T13:44:48.249Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:publisher>University of Bristol</dc:publisher>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:35.139Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:35.202Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <dc:hasPart>
+      <dctypes:Collection rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns">
+        <rdfs:label>Conformal-Array-Antenna-Patterns</rdfs:label>
+        <dc:hasPart>
+          <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/readme.txt">
+            <rdfs:label>readme.txt</rdfs:label>
+            <dc:format>text/plain; charset=UTF-8</dc:format>
+            <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+            >2425</dc:extent>
+            <foaf:sha1>a005ac514d93c60afec2fde069bdc83d308dc548</foaf:sha1>
+          </rdf:Description>
+        </dc:hasPart>
+        <dc:hasPart>
+          <dctypes:Collection rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical">
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement2.dat">
+                <rdfs:label>BoomConicalCST6GHzElement2.dat</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >549236</dc:extent>
+                <foaf:sha1>0c5262b86eada9e535c6b28b0e8f85a0f7f998b4</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement7.dat">
+                <rdfs:label>BoomConicalCST6GHzElement7.dat</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >549236</dc:extent>
+                <foaf:sha1>2691f3b62fe1c213f340c5106df787579ed3d0f8</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <rdfs:label>Conical</rdfs:label>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement3.dat">
+                <rdfs:label>BoomConicalCST6GHzElement3.dat</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >549236</dc:extent>
+                <foaf:sha1>90c1da8ec24de186acff2a3c547798bdb6fc0a1e</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement1.dat">
+                <rdfs:label>BoomConicalCST6GHzElement1.dat</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >549236</dc:extent>
+                <foaf:sha1>163a95efa9829f624e5a011e78b9b18ce5dcf0db</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement6.dat">
+                <rdfs:label>BoomConicalCST6GHzElement6.dat</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >549236</dc:extent>
+                <foaf:sha1>f455cc1b69c525046ffc97c2337f308a6df7f783</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement8.dat">
+                <rdfs:label>BoomConicalCST6GHzElement8.dat</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >549236</dc:extent>
+                <foaf:sha1>d4bb048e4799aba20d9d2c253c94254a2b63de81</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement4.dat">
+                <rdfs:label>BoomConicalCST6GHzElement4.dat</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >549236</dc:extent>
+                <foaf:sha1>36c5dfdb007dd9c16a71566794afd3e9e1481236</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement5.dat">
+                <rdfs:label>BoomConicalCST6GHzElement5.dat</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >549236</dc:extent>
+                <foaf:sha1>448338e37e64646d967f42ab0c5a8742f96682c1</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+          </dctypes:Collection>
+        </dc:hasPart>
+        <dc:hasPart>
+          <dctypes:Collection rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch">
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B8%5D.txt">
+                <rdfs:label>farfield (f=3) [8].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>c2efbc52c8acbf9c77e15d16d51142281f57356c</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B3%5D.txt">
+                <rdfs:label>farfield (f=3) [3].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>a4e32e526cf9af279fbbbfd76322aa8ef51ced9c</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B2%5D.txt">
+                <rdfs:label>farfield (f=3) [2].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>8d8aab7bfef3a8369da075bc000625e5d7ff8c2c</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B1%5D.txt">
+                <rdfs:label>farfield (f=3) [1].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>484e6ff1cb477a851c9e921d47b67adc3f128b4e</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B8%5D.txt">
+                <rdfs:label>farfield (f=6) [8].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>ac4ed566fd079e89709324ef5bf8b91d87a49cc3</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B5%5D.txt">
+                <rdfs:label>farfield (f=3) [5].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>633d5e1758e5a34930df5fb54982d67b6a9e1ad2</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B4%5D.txt">
+                <rdfs:label>farfield (f=6) [4].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>49933cf81bcd07263a0e1655af83af79999f67c5</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <rdfs:label>StackedPatch</rdfs:label>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B2%5D.txt">
+                <rdfs:label>farfield (f=6) [2].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>6afa972a91e3a6e33e6ce696821a0366bc51e0a6</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B6%5D.txt">
+                <rdfs:label>farfield (f=3) [6].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>4398a008c1c888aba2d287f39ec5c07f56da9de7</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B7%5D.txt">
+                <rdfs:label>farfield (f=3) [7].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>39dadff5197ab7c696d2205557e1782fda73d39a</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B5%5D.txt">
+                <rdfs:label>farfield (f=6) [5].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>7aad1c44e006afea547709ceff998f283731d9da</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B1%5D.txt">
+                <rdfs:label>farfield (f=6) [1].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>843a29cd685a054f3155881d67a40ffffc564f27</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B7%5D.txt">
+                <rdfs:label>farfield (f=6) [7].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>0241d98b955b78fa835e06b6bca2aa6a7ab24b11</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B3%5D.txt">
+                <rdfs:label>farfield (f=6) [3].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>51e7f5c5e200c590f65a8ece4a95410c1c2ede48</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B4%5D.txt">
+                <rdfs:label>farfield (f=3) [4].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>399c14ebb9736c6917f548f5e0c367040dfc774f</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+            <dc:hasPart>
+              <rdf:Description rdf:about="https://data.bris.ac.uk/datasets/26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B6%5D.txt">
+                <rdfs:label>farfield (f=6) [6].txt</rdfs:label>
+                <dc:format>text/plain; charset=windows-1252</dc:format>
+                <dc:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer"
+                >990734</dc:extent>
+                <foaf:sha1>b976ccef3a16a7ec23e008b0a7c707550c45dc64</foaf:sha1>
+              </rdf:Description>
+            </dc:hasPart>
+          </dctypes:Collection>
+        </dc:hasPart>
+      </dctypes:Collection>
+    </dc:hasPart>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:35.092Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.PreviewSymLinkTask</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:25:35.115Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:25:58.679Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T14:25:58.802Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+    <repo:project>OAM</repo:project>
+    <opmv:wasGeneratedBy rdf:parseType="Resource">
+      <opmv:wasStartedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:11.179Z</opmv:wasStartedAt>
+      <opmv:used>uk.ac.bristol.dundry.tasks.GenerateApacheIndexes</opmv:used>
+      <opmv:wasEndedAt rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime"
+      >2020-08-12T12:39:11.235Z</opmv:wasEndedAt>
+    </opmv:wasGeneratedBy>
+  </rdf:Description>
+</rdf:RDF>

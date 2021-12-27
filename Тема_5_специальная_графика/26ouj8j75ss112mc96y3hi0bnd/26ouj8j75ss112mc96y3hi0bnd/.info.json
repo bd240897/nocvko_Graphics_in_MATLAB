@@ -1,0 +1,1055 @@
+{
+  "id" : "26ouj8j75ss112mc96y3hi0bnd",
+  "available" : "2020-07-27",
+  "date" : {
+    "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+    "@value" : "2020-08-12T15:03:32.602Z"
+  },
+  "dateSubmitted" : {
+    "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+    "@value" : "2020-07-27T13:44:28.197Z"
+  },
+  "description" : "Project measurement data and reports on Orbital Angular Momentum research using RF / wireless carriers.\r\n\r\nAntenna Array modelled element patterns from \"Conformal Antenna Array Design using Aperture Synthesis\".",
+  "extent" : {
+    "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+    "@value" : "22143895"
+  },
+  "hasFormat" : {
+    "id" : "26ouj8j75ss112mc96y3hi0bnd/26ouj8j75ss112mc96y3hi0bnd.zip",
+    "format" : "application/zip"
+  },
+  "hasPart" : [ {
+    "id" : "26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas",
+    "hasPart" : [ {
+      "id" : "26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/PrintedHornSPP2LensH13v2.dat",
+      "extent" : {
+        "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+        "@value" : "315560"
+      },
+      "format" : "text/plain; charset=windows-1252",
+      "label" : "PrintedHornSPP2LensH13v2.dat",
+      "sha1" : "5d7e1901a7c94219297c08bb146e2e3a7c431fa3"
+    }, {
+      "id" : "26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/PrintedHornSPP2v2.dat",
+      "extent" : {
+        "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+        "@value" : "315560"
+      },
+      "format" : "text/plain; charset=windows-1252",
+      "label" : "PrintedHornSPP2v2.dat",
+      "sha1" : "043386ac65d587125b9ad8cd1ecbba11f56ea394"
+    }, {
+      "id" : "26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/PrintedHornLensH13v2.dat",
+      "extent" : {
+        "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+        "@value" : "315560"
+      },
+      "format" : "text/plain; charset=windows-1252",
+      "label" : "PrintedHornLensH13v2.dat",
+      "sha1" : "6e2f52f2776357968f8c973a1dcd6b9f576a4886"
+    }, {
+      "id" : "26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/readme.txt",
+      "extent" : {
+        "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+        "@value" : "1214"
+      },
+      "format" : "text/plain; charset=UTF-8",
+      "label" : "readme.txt",
+      "sha1" : "b70ac62efc9d1cecc77a046858753ad755520d24"
+    }, {
+      "id" : "26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/PrintedHornSPP1v2.dat",
+      "extent" : {
+        "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+        "@value" : "315560"
+      },
+      "format" : "text/plain; charset=windows-1252",
+      "label" : "PrintedHornSPP1v2.dat",
+      "sha1" : "d0a37eea7048c6e906752b5e45719ecc044987b6"
+    }, {
+      "id" : "26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/PrintedHornv2.dat",
+      "extent" : {
+        "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+        "@value" : "315560"
+      },
+      "format" : "text/plain; charset=windows-1252",
+      "label" : "PrintedHornv2.dat",
+      "sha1" : "ecc5a9cdebdf1be4639e1f7841756ddad22e64fd"
+    }, {
+      "id" : "26ouj8j75ss112mc96y3hi0bnd/Printed-Antennas/PrintedHornSPP1LensH11v2.dat",
+      "extent" : {
+        "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+        "@value" : "315560"
+      },
+      "format" : "text/plain; charset=windows-1252",
+      "label" : "PrintedHornSPP1LensH11v2.dat",
+      "sha1" : "d70ffb5995fd97cab20cf691ad730ba29f40dc54"
+    } ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : {
+      "id" : "http://purl.org/dc/dcmitype/Collection"
+    },
+    "label" : "Printed-Antennas"
+  }, {
+    "id" : "26ouj8j75ss112mc96y3hi0bnd/readme.txt",
+    "extent" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+      "@value" : "1264"
+    },
+    "format" : "text/plain; charset=windows-1252",
+    "label" : "readme.txt",
+    "sha1" : "0bf3f8d719c34749f9bd63c136c7c7cdd9befeae"
+  }, {
+    "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns",
+    "hasPart" : [ {
+      "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/readme.txt",
+      "extent" : {
+        "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+        "@value" : "2425"
+      },
+      "format" : "text/plain; charset=UTF-8",
+      "label" : "readme.txt",
+      "sha1" : "a005ac514d93c60afec2fde069bdc83d308dc548"
+    }, {
+      "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical",
+      "hasPart" : [ {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement2.dat",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "549236"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "BoomConicalCST6GHzElement2.dat",
+        "sha1" : "0c5262b86eada9e535c6b28b0e8f85a0f7f998b4"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement7.dat",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "549236"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "BoomConicalCST6GHzElement7.dat",
+        "sha1" : "2691f3b62fe1c213f340c5106df787579ed3d0f8"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement3.dat",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "549236"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "BoomConicalCST6GHzElement3.dat",
+        "sha1" : "90c1da8ec24de186acff2a3c547798bdb6fc0a1e"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement1.dat",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "549236"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "BoomConicalCST6GHzElement1.dat",
+        "sha1" : "163a95efa9829f624e5a011e78b9b18ce5dcf0db"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement6.dat",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "549236"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "BoomConicalCST6GHzElement6.dat",
+        "sha1" : "f455cc1b69c525046ffc97c2337f308a6df7f783"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement8.dat",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "549236"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "BoomConicalCST6GHzElement8.dat",
+        "sha1" : "d4bb048e4799aba20d9d2c253c94254a2b63de81"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement4.dat",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "549236"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "BoomConicalCST6GHzElement4.dat",
+        "sha1" : "36c5dfdb007dd9c16a71566794afd3e9e1481236"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/Conical/BoomConicalCST6GHzElement5.dat",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "549236"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "BoomConicalCST6GHzElement5.dat",
+        "sha1" : "448338e37e64646d967f42ab0c5a8742f96682c1"
+      } ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : {
+        "id" : "http://purl.org/dc/dcmitype/Collection"
+      },
+      "label" : "Conical"
+    }, {
+      "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch",
+      "hasPart" : [ {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B8%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=3) [8].txt",
+        "sha1" : "c2efbc52c8acbf9c77e15d16d51142281f57356c"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B3%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=3) [3].txt",
+        "sha1" : "a4e32e526cf9af279fbbbfd76322aa8ef51ced9c"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B2%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=3) [2].txt",
+        "sha1" : "8d8aab7bfef3a8369da075bc000625e5d7ff8c2c"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B1%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=3) [1].txt",
+        "sha1" : "484e6ff1cb477a851c9e921d47b67adc3f128b4e"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B8%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=6) [8].txt",
+        "sha1" : "ac4ed566fd079e89709324ef5bf8b91d87a49cc3"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B5%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=3) [5].txt",
+        "sha1" : "633d5e1758e5a34930df5fb54982d67b6a9e1ad2"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B4%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=6) [4].txt",
+        "sha1" : "49933cf81bcd07263a0e1655af83af79999f67c5"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B2%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=6) [2].txt",
+        "sha1" : "6afa972a91e3a6e33e6ce696821a0366bc51e0a6"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B6%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=3) [6].txt",
+        "sha1" : "4398a008c1c888aba2d287f39ec5c07f56da9de7"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B7%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=3) [7].txt",
+        "sha1" : "39dadff5197ab7c696d2205557e1782fda73d39a"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B5%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=6) [5].txt",
+        "sha1" : "7aad1c44e006afea547709ceff998f283731d9da"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B1%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=6) [1].txt",
+        "sha1" : "843a29cd685a054f3155881d67a40ffffc564f27"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B7%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=6) [7].txt",
+        "sha1" : "0241d98b955b78fa835e06b6bca2aa6a7ab24b11"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B3%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=6) [3].txt",
+        "sha1" : "51e7f5c5e200c590f65a8ece4a95410c1c2ede48"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=3)%20%5B4%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=3) [4].txt",
+        "sha1" : "399c14ebb9736c6917f548f5e0c367040dfc774f"
+      }, {
+        "id" : "26ouj8j75ss112mc96y3hi0bnd/Conformal-Array-Antenna-Patterns/StackedPatch/farfield%20(f=6)%20%5B6%5D.txt",
+        "extent" : {
+          "@type" : "http://www.w3.org/2001/XMLSchema#integer",
+          "@value" : "990734"
+        },
+        "format" : "text/plain; charset=windows-1252",
+        "label" : "farfield (f=6) [6].txt",
+        "sha1" : "b976ccef3a16a7ec23e008b0a7c707550c45dc64"
+      } ],
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : {
+        "id" : "http://purl.org/dc/dcmitype/Collection"
+      },
+      "label" : "StackedPatch"
+    } ],
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : {
+      "id" : "http://purl.org/dc/dcmitype/Collection"
+    },
+    "label" : "Conformal-Array-Antenna-Patterns"
+  } ],
+  "issued" : "2020",
+  "language" : "eng",
+  "license" : {
+    "id" : "http://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/non-commercial-government-licence.htm"
+  },
+  "publisher" : "University of Bristol",
+  "source" : "RDSF1/projects/OAM/export/Data-Bris",
+  "title" : "Data from Antenna and Antenna Array Research(07-2020)",
+  "type" : {
+    "id" : "http://purl.org/dc/dcmitype/Dataset"
+  },
+  "wasGeneratedBy" : [ {
+    "used" : "uk.ac.bristol.dundry.tasks.PreviewSymLinkTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:03.221Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:03.217Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.PublishSymLinkTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:34.871Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:34.829Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.EnsurePublicPermissions",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:55:36.509Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:55:36.438Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.EnsurePublicPermissions",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:24.85Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:24.786Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.ZipTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:37.196Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:35.175Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.EnsurePublicPermissions",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:35.289Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:35.228Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.PreviewSymLinkTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:24.644Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:24.635Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.GenerateApacheIndexes",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:02:53.112Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:02:53.031Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.EnsurePublicPermissions",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:11.342Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:11.282Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.GenerateApacheIndexes",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:54:30.075Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:54:30.013Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.StateChanger",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:37.41Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:37.364Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.GenerateApacheIndexes",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:03.315Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:03.251Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.EnsurePublicPermissions",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:54:30.181Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:54:30.108Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.DataCiteSubmit",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-19T15:28:56.682Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-19T15:28:55.542Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.GenerateApacheIndexes",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:55:36.418Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:55:36.34Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.IndexDepositTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:33.387Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:32.781Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.SyncTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:25:58.577Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:25:58.051Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.SyncTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:02:52.948Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:02:52.433Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.GenerateApacheIndexes",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-06T13:44:48.203Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-06T13:44:48.105Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.SyncTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:38:25.29Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:38:23.747Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.StateChanger",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:38:25.678Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:38:25.671Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.GenerateApacheIndexes",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:26:03.783Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:26:03.712Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.StateChanger",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:25:59.027Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:25:59.005Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.EnsurePublicPermissions",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:02:53.278Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:02:53.138Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.EnsurePublicPermissions",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:26:03.999Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:26:03.827Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.PreviewSymLinkTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:54:29.968Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:54:29.933Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.PreviewSymLinkTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:11.156Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:11.153Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.SyncTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:54:29.889Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:54:29.35Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.StateChanger",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:11.388Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:11.368Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.EnsurePublicPermissions",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:38:25.656Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:38:25.594Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.GenerateApacheIndexes",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:35.137Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:35.047Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.MDExtractTika",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:34.583Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:34.18Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.PreviewSymLinkTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-06T13:44:48.051Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-06T13:44:48.029Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.StateChanger",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-06T13:44:48.273Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-06T13:44:48.261Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.MDExtractTika",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-19T15:28:55.477Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-19T15:28:55.039Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.PreviewSymLinkTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:02:52.994Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:02:52.988Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.SyncTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:24.6Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:24.086Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.RemovePreviewSymLinkTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:32.748Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:32.727Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.EnsurePublicPermissions",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:37.323Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:37.249Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.IndexDepositTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-19T15:28:54.97Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-19T15:28:53.607Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.SyncTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:55:36.29Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:55:35.784Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.GenerateApacheIndexes",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:38:25.586Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:38:25.33Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.PreviewSymLinkTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:38:25.305Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:38:25.301Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.StateChanger",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:24.903Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:24.883Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.SyncTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:35.053Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:34.506Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.StateChanger",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:35.317Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:35.303Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.PreviewSymLinkTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:25:58.611Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:25:58.601Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.StateChanger",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:55:36.533Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:55:36.525Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.StateChanger",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:54:30.222Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:54:30.201Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.EnsurePublicPermissions",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:03.394Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:03.331Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.EnsurePublicPermissions",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:25:58.972Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:25:58.826Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.SyncTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:11.126Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:10.614Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.StateChanger",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:02:53.345Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:02:53.32Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.GenerateApacheIndexes",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:24.747Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:24.679Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.SyncTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:26:03.651Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:26:03.14Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.ZipPreTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:34.946Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T15:03:34.938Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.PreviewSymLinkTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:55:36.318Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T08:55:36.315Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.StateChanger",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:26:04.042Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:26:04.02Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.SyncTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:03.18Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:02.663Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.ZipPreTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-19T15:28:52.768Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-19T15:28:52.729Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.StateChanger",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:03.506Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:03.471Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.PreviewSymLinkTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:26:03.691Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:26:03.686Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.EnsurePublicPermissions",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-06T13:44:48.249Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-06T13:44:48.23Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.GenerateApacheIndexes",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:35.202Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:35.139Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.PreviewSymLinkTask",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:35.115Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:25:35.092Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.GenerateApacheIndexes",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:25:58.802Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T14:25:58.679Z"
+    }
+  }, {
+    "used" : "uk.ac.bristol.dundry.tasks.GenerateApacheIndexes",
+    "wasEndedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:11.235Z"
+    },
+    "wasStartedAt" : {
+      "@type" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "@value" : "2020-08-12T12:39:11.179Z"
+    }
+  } ],
+  "doi" : "10.5523/bris.26ouj8j75ss112mc96y3hi0bnd",
+  "base_directory" : "/RDSF1/projects/OAM",
+  "data_steward" : {
+    "id" : "http://data.bris.ac.uk/people/4142",
+    "label" : "Mark Beach"
+  },
+  "depositor" : "tp12099",
+  "includes_third_party_data" : "0",
+  "organisation" : {
+    "id" : "http://data.bris.ac.uk/orgs/FENG"
+  },
+  "other_licences" : "0",
+  "project" : "OAM",
+  "state" : "Published",
+  "creators" : [ {
+    "id" : "http://data.bris.ac.uk/people/5566",
+    "label" : "Geoffrey Hilton"
+  }, {
+    "id" : "http://data.bris.ac.uk/people/4142",
+    "label" : "Mark Beach"
+  }, {
+    "id" : "http://data.bris.ac.uk/people/269487",
+    "label" : "Timothy Pelham"
+  } ],
+  "@context" : "http://vocab.bris.ac.uk/datasets.json",
+  "@base" : "https://data.bris.ac.uk/datasets/"
+}
